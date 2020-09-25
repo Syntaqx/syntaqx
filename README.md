@@ -7,5 +7,5 @@
 </audio>
 -->
 
-Hacker, open sorcerer, software engineer, gamer, animal and whiskey lover. Your
-favorite internet junkie with a love of all things digital and bacon-based.
+Hacker, open sorcerer, gamer, animal and whiskey lover. Your favorite internet
+junkie with a love of all things digital and bacon-based.
