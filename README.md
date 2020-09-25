@@ -1,4 +1,4 @@
-# syntaqx (/ˈsɪnˌtæks/) [:loud_sound:](./audio/syntaqx_American_English_pronunciation.gg)
+# syntaqx (/ˈsɪnˌtæks/) [:loud_sound:](./audio/syntaqx_American_English_pronunciation.ogg)
 
 <!-- wtb?
 <audio controls>
