@@ -10,7 +10,6 @@ have to!
 > over the last few years, but hopefully I can start showing off some things!
 
 - :star: [Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
-- :email: [syntaqx@gmail.com](mailto:syntaqx@gmail.com)
 
 <sub><i>
 GitHub Sponsors allows you to financially support the people who build and
