@@ -1,15 +1,29 @@
 # syntaqx (/ˈsɪnˌtæks/)
 
-Hey, I'm Chase! :wave:
+> :wave: I'm Chase :wave:
 
-I absolutely love open source, and solving problems by building or extending
-tools, fixing real world engineering problems, hopefully makes it so you don't
-have to!
+Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based
+
+## Active projects
+
+- `⌛ Loading.... ⏳`
 
 > 🚧 Things are still ramping up a bit for some things I've been working towards
 > over the last few years, but hopefully I can start showing off some things!
 
-- :star: [Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
+## Identity
+
+- [Hello](https://syntaqx.com/)
+- [GitHub](https://github.com/syntaqx)
+- [Docker Hub](https://hub.docker.com/u/syntaqx)
+- [Twitter](https://twitter.com/syntaqx)
+- [LinkedIn](https://www.linkedin.com/in/syntaqx)
+- [Redis](https://reddit.com/users/syntaqx)
+
+## ❤️
+
+- 📆 [Schedule an event](http://calend.ly/syntaqx)
+- 🌟 [Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
 
 <sub><i>
 GitHub Sponsors allows you to financially support the people who build and
