@@ -18,7 +18,7 @@ Hacker, open sorcerer, software engineer, cloudified. Your favorite internet jun
 - [Docker Hub](https://hub.docker.com/u/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
 - [LinkedIn](https://www.linkedin.com/in/syntaqx)
-- [Redis](https://reddit.com/users/syntaqx)
+- [Reddit](https://reddit.com/users/syntaqx)
 
 ## ❤️
 
