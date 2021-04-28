@@ -2,14 +2,20 @@
 
 Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based
 
-## Current
-
-- `⌛ Loading.... ⏳`
-
-> 🚧 Things are still ramping up a bit for some things I've been working towards
-> over the last few years, but hopefully I can start showing off some things!
+| Palette   |
+|-----------|
+| `#00D1CA` |
+| `#334B49` |
+| `#95B1AE` |
+| `#FF9CC7` |
+| `#C86691` |
 
 ## Projects
+
+### Upcoming
+
+` ⌛ ...Loading.... ⏳`
+### Active
 
 - [🍽️ serve](https://github.com/syntaqx/serve)
   · a static http server anywhere you need one.
@@ -21,20 +27,18 @@ Hacker, open sorcerer, software engineer, cloudified. Your favorite internet jun
 ## Identities
 
 - [GitHub](https://github.com/syntaqx)
+- [StackOverflow](https://stackoverflow.com/users/1295839/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://reddit.com/users/syntaqx)
 - [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Docker Hub](https://hub.docker.com/u/syntaqx)
 
-## Want to chat?
+## Made with :heart:
 
-- [:email: Send me an email](mailto:syntaqx@gmail.com)
-- [:calendar: Book a video call](https://calend.ly/syntaqx)
-
-## Made With ❤️
-
-- 🌟 [Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
+- [:email: Contact](mailto:syntaqx@gmail.com)
+- [:calendar: Schedule a call](https://calend.ly/syntaqx)
+- [:boom: Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
 
 <sub><i>
 GitHub Sponsors allows you to financially support the people who build and
