@@ -1,28 +1,35 @@
 # syntaqx (/ˈsɪnˌtæks/)
 
-> :wave: I'm Chase :wave:
-
 Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based
 
-## Active projects
+## Current
 
 - `⌛ Loading.... ⏳`
 
 > 🚧 Things are still ramping up a bit for some things I've been working towards
 > over the last few years, but hopefully I can start showing off some things!
 
-## Identity
+## Projects
 
-- [Hello](https://syntaqx.com/)
+- [🍽️ serve](https://github.com/syntaqx/serve) - a static http server anywhere you need one.
+- [📚 syntaqx.com](https://syntaqx.com) - Personal blog and internet homepage
+
+## Identities
+
 - [GitHub](https://github.com/syntaqx)
-- [Docker Hub](https://hub.docker.com/u/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
-- [LinkedIn](https://www.linkedin.com/in/syntaqx)
+- [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://reddit.com/users/syntaqx)
+- [LinkedIn](https://www.linkedin.com/in/syntaqx)
+- [Docker Hub](https://hub.docker.com/u/syntaqx)
 
-## ❤️
+## Want to chat?
 
-- 📆 [Schedule an event](http://calend.ly/syntaqx)
+- [:email: Send me an email](mailto:syntaqx@gmail.com)
+- [:calendar: Book a video call](https://calend.ly/syntaqx)
+
+## Made With ❤️
+
 - 🌟 [Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
 
 <sub><i>
