@@ -27,7 +27,6 @@
 
 - [syntaqx.com](https://syntaqx.com) · Personal blog and internet homepage
 - [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
-- [terraform-provider-digitalocean](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
 
 ### Archived
 
