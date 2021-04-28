@@ -1,28 +1,38 @@
 # syntaqx (/ˈsɪnˌtæks/)
 
-Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based
+## <em>Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based</em>
 
-| Palette   |
-|-----------|
-| `#00D1CA` |
-| `#334B49` |
-| `#95B1AE` |
-| `#FF9CC7` |
-| `#C86691` |
+![syntaqx](banner-brand.png)
+
+|                                                            |           |
+| ---------------------------------------------------------- | --------- |
+| ![Primary](https://img.shields.io/badge/-%2300D1CA-00D1CA) | `#00D1CA` |
+| ![Color](https://img.shields.io/badge/-%23334B49-334B49)   | `#334B49` |
+| ![Color](https://img.shields.io/badge/-%2395B1AE-95B1AE)   | `#95B1AE` |
+| ![Color](https://img.shields.io/badge/-%23FF9CC7-FF9CC7)   | `#FF9CC7` |
+| ![Color](https://img.shields.io/badge/-%23C86691-C86691)   | `#C86691` |
 
 ## Projects
 
 ### Upcoming
 
 ` ⌛ ...Loading.... ⏳`
+
 ### Active
 
-- [🍽️ serve](https://github.com/syntaqx/serve)
-  · a static http server anywhere you need one.
-- [🎣 git-hooks](https://github.com/syntaqx/git-hooks)
-  · A collection of useful Git hooks for use with pre-commit.
-- [📚 syntaqx.com](https://syntaqx.com)
-  · Personal blog and internet homepage
+- [🍽️ serve](https://github.com/syntaqx/serve) · a static http server anywhere you need one.
+- [🎣 git-hooks](https://github.com/syntaqx/git-hooks) · A collection of useful Git hooks for use with pre-commit.
+
+### Ice Box
+
+- [syntaqx.com](https://syntaqx.com) · Personal blog and internet homepage
+- [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
+- [terraform-provider-digitalocean](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
+
+### Archived
+
+- [echo-middleware](https://github.com/syntaqx/echo-middleware) · HTTP middlewares implemented for echo
+- [pass-meter](https://github.com/syntaqx/pass-meter) · Simple password strength testing
 
 ## Identities
 
