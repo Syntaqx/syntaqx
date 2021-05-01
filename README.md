@@ -2,11 +2,10 @@
 
 ## <em>Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based</em>
 
-![syntaqx](banner-brand.png)
-
 |                                                            |           |
 | ---------------------------------------------------------- | --------- |
 | ![Primary](https://img.shields.io/badge/-%2300D1CA-00D1CA) | `#00D1CA` |
+| ![Dark](https://img.shields.io/badge/-%231A1A1A-1A1A1A)    | `#1A1A1A` |
 | ![Color](https://img.shields.io/badge/-%23334B49-334B49)   | `#334B49` |
 | ![Color](https://img.shields.io/badge/-%2395B1AE-95B1AE)   | `#95B1AE` |
 | ![Color](https://img.shields.io/badge/-%23FF9CC7-FF9CC7)   | `#FF9CC7` |
