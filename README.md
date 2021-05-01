@@ -38,11 +38,12 @@
 
 - [GitHub](https://github.com/syntaqx)
 - [StackOverflow](https://stackoverflow.com/users/1295839/syntaqx)
+- [Docker Hub](https://hub.docker.com/u/syntaqx)
 - [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://reddit.com/users/syntaqx)
-- [Docker Hub](https://hub.docker.com/u/syntaqx)
+- [Pinterest](https://www.pinterest.com/syntaqx)
 
 ## Made with :heart:
 
