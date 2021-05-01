@@ -43,6 +43,7 @@
 - [Twitter](https://twitter.com/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://reddit.com/users/syntaqx)
+- [Medium](https://medium.com/@syntaqx)
 - [Pinterest](https://www.pinterest.com/syntaqx)
 
 ## Made with :heart:
