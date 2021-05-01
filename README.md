@@ -32,6 +32,7 @@
 
 - [echo-middleware](https://github.com/syntaqx/echo-middleware) · HTTP middlewares implemented for echo
 - [pass-meter](https://github.com/syntaqx/pass-meter) · Simple password strength testing
+- [cachew](https://github.com/syntaqx/cachew) · Powerfully simple caching library
 
 ## Identities
 
