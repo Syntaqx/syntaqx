@@ -37,16 +37,15 @@
 
 - [GitHub](https://github.com/syntaqx)
 - [StackOverflow](https://stackoverflow.com/users/1295839/syntaqx)
+- [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://reddit.com/users/syntaqx)
-- [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Docker Hub](https://hub.docker.com/u/syntaqx)
 
 ## Made with :heart:
 
 - [:email: Contact](mailto:syntaqx@gmail.com)
-- [:calendar: Schedule a call](https://calend.ly/syntaqx)
 - [:boom: Become a GitHub Sponsor](https://github.com/sponsors/syntaqx)
 
 <sub><i>
