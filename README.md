@@ -1,7 +1,5 @@
 # syntaqx (/ˈsɪnˌtæks/)
 
-## <em>Hacker, open sorcerer, software engineer, cloudified. Your favorite internet junkie with a love of all things digital and bacon-based</em>
-
 |                                                            |           |
 | ---------------------------------------------------------- | --------- |
 | ![Primary](https://img.shields.io/badge/-%2300D1CA-00D1CA) | `#00D1CA` |
