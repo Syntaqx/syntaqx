@@ -39,7 +39,7 @@
 - [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
-- [Reddit](https://reddit.com/users/syntaqx)
+- [Reddit](https://www.reddit.com/user/syntaqx/)
 - [Medium](https://medium.com/@syntaqx)
 - [Pinterest](https://www.pinterest.com/syntaqx)
 
