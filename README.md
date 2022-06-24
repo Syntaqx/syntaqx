@@ -11,10 +11,6 @@
 
 ## Projects
 
-### Upcoming
-
-` ⌛ ...Loading.... ⏳`
-
 ### Active
 
 - [🍽️ serve](https://github.com/syntaqx/serve) · a static http server anywhere you need one.
