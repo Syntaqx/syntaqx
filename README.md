@@ -13,6 +13,7 @@
 
 ### Active
 
+- [📣 echo-server](https://github.com/syntaqx/echo-server) - a simple server for http testing purposes
 - [🍽️ serve](https://github.com/syntaqx/serve) · a static http server anywhere you need one.
 - [🎣 git-hooks](https://github.com/syntaqx/git-hooks) · A collection of useful Git hooks for use with pre-commit.
 
