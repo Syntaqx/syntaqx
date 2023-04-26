@@ -13,9 +13,9 @@
 
 ### References
 
-- https://github.com/syntaqx/github-flow-example - An example workflow implementing GitHub Flow
-- https://github.com/syntaqx/ecs-workflow - An examle of deploying to Docker Hub, ECR and ECS
-- https://github.com/syntaqx/packer-workflow - An example using Packer & Terraform for deployments
+- [github-flow-example](https://github.com/syntaqx/github-flow-example) - An example workflow implementing GitHub Flow
+- [ecs-workflow](https://github.com/syntaqx/ecs-workflow) - An examle of deploying to Docker Hub, ECR and ECS
+- [packer-workflow](https://github.com/syntaqx/packer-workflow) - An example using Packer & Terraform for deployments
 
 ### Active
 
