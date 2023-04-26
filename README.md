@@ -11,6 +11,12 @@
 
 ## Projects
 
+### References
+
+- https://github.com/syntaqx/github-flow-example - An example workflow implementing GitHub Flow
+- https://github.com/syntaqx/ecs-workflow - An examle of deploying to Docker Hub, ECR and ECS
+- https://github.com/syntaqx/packer-workflow - An example using Packer & Terraform for deployments
+
 ### Active
 
 - [📣 echo-server](https://github.com/syntaqx/echo-server) - a simple server for http testing purposes
