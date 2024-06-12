@@ -19,10 +19,9 @@
 
 ### Active
 
-- [🌱 env](https://github.com/syntaqx/env) - a utility package for working with environment variables.
-- [📣 echo-server](https://github.com/syntaqx/echo-server) - a simple server for http testing purposes
 - [🗅 nullable](https://github.com/syntaqx/nullable) - A way to represent nullable types in Go with JSON serialization
 - [🍽️ serve](https://github.com/syntaqx/serve) · a static http server anywhere you need one.
+- [📣 echo-server](https://github.com/syntaqx/echo-server) - a simple server for http testing purposes
 - [🎣 git-hooks](https://github.com/syntaqx/git-hooks) · A collection of useful Git hooks for use with pre-commit.
 - [🔇 immutablewebapps.com](https://immutablewebapps.com) · A framework-agnostic methodology for building and deploying static SPAs.
 - [⚓ syntaqx/setup-kustomize](https://github.com/syntaqx/setup-kustomize) · A simple GitHub Action to install the Kustomize binary
