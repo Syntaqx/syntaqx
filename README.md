@@ -19,6 +19,7 @@
 
 ### Active
 
+- [🍪 cookie](https://github.com/syntaqx/cookie) - cookie structs
 - [🌱 env](https://github.com/syntaqx/env) - an environment variable utility package
 - [🗅 nullable](https://github.com/syntaqx/nullable) - A way to represent nullable types in Go with JSON serialization
 - [🍽️ serve](https://github.com/syntaqx/serve) · a static http server anywhere you need one.
