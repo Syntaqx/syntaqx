@@ -27,10 +27,9 @@
 - [🎣 git-hooks](https://github.com/syntaqx/git-hooks) · A collection of useful Git hooks for use with pre-commit.
 - [🔇 immutablewebapps.com](https://immutablewebapps.com) · A framework-agnostic methodology for building and deploying static SPAs.
 - [⚓ syntaqx/setup-kustomize](https://github.com/syntaqx/setup-kustomize) · A simple GitHub Action to install the Kustomize binary
+- [syntaqx.com](https://syntaqx.com) · Personal blog and internet homepage
 
 ### Ice Box
-
-- [syntaqx.com](https://syntaqx.com) · Personal blog and internet homepage
 - [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
 
 ### Archived
