@@ -36,6 +36,7 @@ Sometimes I get bored so I do coding challenges for fun.
 
 - [ciphersprint](https://github.com/syntaqx/ciphersprint)
 - [fetch-rewards-receipt-processor-challenge](https://github.com/syntaqx/fetch-rewards-receipt-processor-challenge)
+- [leetcode-go](https://github.com/syntaqx/leetcode-go)
 
 ### Ice Box
 
@@ -43,6 +44,7 @@ Sometimes I get bored so I do coding challenges for fun.
 
 ### Archived
 
+- [collect](https://github.com/syntaqx/collect) - Go package that provides functions to perform operations on collections of data
 - [echo-middleware](https://github.com/syntaqx/echo-middleware) · HTTP middlewares implemented for echo
 - [pass-meter](https://github.com/syntaqx/pass-meter) · Simple password strength testing
 - [cachew](https://github.com/syntaqx/cachew) · Powerfully simple caching library
