@@ -30,7 +30,15 @@ https://syntaqx.com
 - [🔇 immutablewebapps.com](https://immutablewebapps.com) · A framework-agnostic methodology for building and deploying static SPAs.
 - [⚓ syntaqx/setup-kustomize](https://github.com/syntaqx/setup-kustomize) · A simple GitHub Action to install the Kustomize binary
 
+### Coding Challenges
+
+Sometimes I get bored so I do coding challenges for fun.
+
+- [ciphersprint](https://github.com/syntaqx/ciphersprint)
+- [fetch-rewards-receipt-processor-challenge](https://github.com/syntaqx/fetch-rewards-receipt-processor-challenge)
+
 ### Ice Box
+
 - [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
 
 ### Archived
