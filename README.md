@@ -13,14 +13,6 @@ https://syntaqx.com
 
 ## Projects
 
-### References
-
-- [github-flow-example](https://github.com/syntaqx/github-flow-example) - An example workflow implementing GitHub Flow
-- [ecs-workflow](https://github.com/syntaqx/ecs-workflow) - An examle of deploying to Docker Hub, ECR and ECS
-- [packer-workflow](https://github.com/syntaqx/packer-workflow) - An example using Packer & Terraform for deployments
-
-### Active
-
 - [🍪 cookie](https://github.com/syntaqx/cookie) - cookie structs
 - [🌱 env](https://github.com/syntaqx/env) - an environment variable utility package
 - [🗅 nullable](https://github.com/syntaqx/nullable) - A way to represent nullable types in Go with JSON serialization
