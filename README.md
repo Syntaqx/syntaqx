@@ -44,10 +44,11 @@ Sometimes I get bored so I do coding challenges for fun.
 ## Identities
 
 - [GitHub](https://github.com/syntaqx)
-- [StackOverflow](https://stackoverflow.com/users/1295839/syntaqx)
-- [Docker Hub](https://hub.docker.com/u/syntaqx)
 - [LinkedIn](https://www.linkedin.com/in/syntaqx)
 - [Twitter](https://twitter.com/syntaqx)
+- [StackOverflow](https://stackoverflow.com/users/1295839/syntaqx)
+- [HackerRank](https://www.hackerrank.com/profile/syntaqx)
+- [Docker Hub](https://hub.docker.com/u/syntaqx)
 - [Twitch](https://www.twitch.tv/syntaqx)
 - [Reddit](https://www.reddit.com/user/syntaqx/)
 - [Medium](https://medium.com/@syntaqx)
